@@ -1,0 +1,45 @@
+_repo: The-Shades-of-the-Wilderness--A-Story-of-Lee-s-Great-Stand_12532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: A train of wagons and men wound slowly over the hills in the darkness
+  and rain toward the South. In the wagons lay fourteen or fifteen thousand wounded
+  soldiers, but they made little noise, as the wheels sank suddenly in the mud or
+  bumped over stones. Although the vast majority of them were young, boys or not much
+  more, they had learned to be masters of themselves, and they suffered in silence,
+  save when some one, lost in fever, uttered a groan. But the chief sound was a blended
+  note made by the turning of wheels, and the hoofs of horses sinking in the soft
+  earth. The officers gave but few orders, and the cavalrymen who rode on either flank
+  looked solicitously into the wagons now and then to see how their wounded friends
+  fared, though they seldom spoke. The darkness they did not mind, because they were
+  used to it, and the rain and the coolness were a relief, after three days of the
+  fiercest battle the American continent had ever known, fought in the hottest days
+  that the troops could recall. Thus Lee's army drew its long length from the fatal
+  field of Gettysburg, although his valiant brigades did not yet know that the clump
+  of trees upon Cemetery Hill had marked the high tide of the Confederacy.
+gutenberg_bookshelf:
+- Children's Fiction
+- US Civil War
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Shades of the Wilderness: A Story of Lee''s Great Stand'
+url: http://www.gutenberg.org/ebooks/12532
