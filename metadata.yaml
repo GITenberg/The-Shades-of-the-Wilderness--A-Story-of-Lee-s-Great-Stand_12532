@@ -1,5 +1,8 @@
 _repo: The-Shades-of-the-Wilderness--A-Story-of-Lee-s-Great-Stand_12532
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Altsheler, Joseph A. (Joseph Alexander)
@@ -26,6 +29,8 @@ description: A train of wagons and men wound slowly over the hills in the darkne
   that the troops could recall. Thus Lee's army drew its long length from the fatal
   field of Gettysburg, although his valiant brigades did not yet know that the clump
   of trees upon Cemetery Hill had marked the high tide of the Confederacy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12532#The-Shades-of-the-Wilderness--A-Story-of-Lee-s-Great-Stand
 gutenberg_bookshelf:
 - Children's Fiction
 - US Civil War
